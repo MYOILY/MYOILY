@@ -44,9 +44,6 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- GitHub: [Your GitHub](https://github.com/your-github-username)
-- Portfolio: [Your Portfolio](https://your-portfolio-link.com)
+- LinkedIn: [Lok Yiu Wong](www.linkedin.com/in/lok-yiu-wong-526b26346)
 
-🚀 Always excited to learn and collaborate on innovative projects!
 
