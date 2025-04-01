@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Lok Yiu Wong](www.linkedin.com/in/lok-yiu-wong-526b26346)
+- LinkedIn: <a href="https://www.linkedin.com/in/lok-yiu-wong-526b26346" target="_blank">Lok Yiu Wong</a>
 
 
