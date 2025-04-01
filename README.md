@@ -18,11 +18,17 @@ Here are some ideas to get you started:
 ## 💻 Software Engineer | Data Scientist | Game Developer
 
 🔹 Data Structures and Algorithms
+
 🔹 Software Modelling and Design
+
 🔹 Testing and debugging techniques
+
 🔹 Database and SQL
+
 🔹 Big Data Analysis
+
 🔹 Machine Learning
+
 🔹 Game Development
 
 ---
