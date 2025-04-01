@@ -1,4 +1,4 @@
-## Hi there 👋 I am Lokyiu
+## Hi there 👋 I am Lok Yiu
 
 <!--
 **MYOILY/MYOILY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 ## 💻 Software Engineer | Data Scientist | Game Developer
 
-🔹 Strong foundation in **Python, Java, and C++**  
-🔹 Experience with **Machine Learning, Big Data, and Cloud Computing**  
-🔹 Game Development using **Unity and C#**  
-🔹 Data Engineering with **HDFS, Beeline, and Power BI**  
-🔹 Currently exploring **Cybersecurity and Trading Strategies**  
+🔹 Data Structures and Algorithms
+🔹 Software Modelling and Design
+🔹 Testing and debugging techniques
+🔹 Database and SQL
+🔹 Big Data Analysis
+🔹 Machine Learning
+🔹 Game Development
 
 ---
 
