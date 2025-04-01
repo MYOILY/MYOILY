@@ -1,5 +1,5 @@
 # Hi there 👋 I am Lok Yiu 
-💻 Software Engineer | Data Scientist | Game Developer
+💻 Software Engineer | Data Scientist | Game Developer💻
 
 🔹 Data Structures and Algorithms
 
