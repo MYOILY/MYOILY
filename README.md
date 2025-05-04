@@ -7,7 +7,7 @@
 
 🔹 Software Modelling and Design
 
-🔹 Testing and debugging Techniques
+🔹 Testing and Debugging Techniques
 
 🔹 Database and SQL
 
