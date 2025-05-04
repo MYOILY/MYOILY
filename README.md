@@ -3,6 +3,8 @@
 
 🔹 Data Structures and Algorithms
 
+🔹 Computer System
+
 🔹 Software Modelling and Design
 
 🔹 Testing and debugging Techniques
