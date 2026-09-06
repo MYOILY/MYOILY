@@ -1,23 +1,6 @@
 # Hi there 👋 I am Lok Yiu 
 💻 Software Engineer | Data Scientist 🐧
 
-🔹 Data Structures and Algorithms
-
-🔹 Computer System
-
-🔹 Software Modelling and Design
-
-🔹 Testing and Debugging Techniques
-
-🔹 Database and SQL
-
-🔹 Big Data Analysis
-
-🔹 Machine Learning
-
-🔹 Game Development
-
----
 
 ## 🛠️ Languages and Tools
 
