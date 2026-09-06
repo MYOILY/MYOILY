@@ -2,7 +2,7 @@
 💻 Software Engineer | Data Scientist 🐧
 
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -24,8 +24,5 @@
 
 ---
 
-## 📫 Connect with Me
-
-- LinkedIn: <a href="https://www.linkedin.com/in/lok-yiu-wong-526b26346" target="_blank">Lok Yiu Wong</a>
 
 
