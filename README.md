@@ -41,9 +41,8 @@
 
 * Software Engineering
 * Data Science & Machine Learning
-* Quantitative Analysis
 * Data Analytics & Visualization
-* Big Data Systems
+* Quantitative Analysis
 * Financial Technology
 * Algorithmic Problem Solving
 
