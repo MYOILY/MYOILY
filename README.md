@@ -13,7 +13,7 @@
 
 An AI-driven solution for optimising restaurant capacity and improving operational decision-making through data-driven analysis.
 
-**Tech:** Python · Data Science · Machine Learning · Data Analysis
+**Tech:** Python · AI & Computer Vision · Business Analysis
 
 ---
 
@@ -23,7 +23,7 @@ An AI-driven solution for optimising restaurant capacity and improving operation
 
 A data science project analysing air quality across multiple sites in Beijing, using data processing, statistical analysis, and visualisation to identify patterns and insights.
 
-**Tech:** Python · Jupyter · Data Analysis · Statistics · Data Visualisation
+**Tech:** Python · Jupyter · Data Analysis · Data Science · Machine Learning · Data Visualisation
 
 ---
 
