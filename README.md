@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Lok Yiu
 
-💻 **Software Engineer | Data Scientist | Computer Science & Statistics**
+💻  **Software Engineer | Data Scientist | Computer Science & Statistics**
 
 ---
 
 ## 🛠️ Skills
 
-### 💻 Programming & Development
+### ⌨️ Programming & Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
@@ -79,7 +79,7 @@ A quantitative research project exploring trading strategies through historical 
 
 ---
 
-### 🎮 [School Escape Game](https://github.com/MYOILY/School-Escape-Game)
+### 🎲 [School Escape Game](https://github.com/MYOILY/School-Escape-Game)
 
 A game development project focused on gameplay systems, object-oriented programming, and interactive game design.
 
