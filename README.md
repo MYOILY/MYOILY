@@ -4,6 +4,45 @@
 
 ---
 
+## 🚀 Featured Projects
+
+
+### 🏆 [AI Restaurant Capacity Optimisation](https://github.com/MYOILY/Forward-Hackathon-AI-Restaurant-Capacity-Optimisation)
+
+**🥇 1st Place & Best in Track: Improve an Existing Business Capability — Forward: AI in Business Hackathon**
+
+An AI-driven solution for optimising restaurant capacity and improving operational decision-making through data-driven analysis.
+
+**Tech:** Python · Data Science · Machine Learning · Data Analysis
+
+---
+
+### 🏆 [Beijing Multi-Site Air Quality Analysis](https://github.com/MYOILY/Inter-uni-Datathon-Beijing-Multi-Site-Air-Quality)
+
+**🥇 1st Place & Best Technical Execution — Inter-University Datathon**
+
+A data science project analysing air quality across multiple sites in Beijing, using data processing, statistical analysis, and visualisation to identify patterns and insights.
+
+**Tech:** Python · Jupyter · Data Analysis · Statistics · Data Visualisation
+
+---
+
+### 📈 [Quantitative Trading Research & Strategy Backtesting](https://github.com/MYOILY/Quantitative-Trading-Research-with-Strategy-Backtesting)
+
+A quantitative research project exploring trading strategies through historical market data, statistical analysis, and backtesting.
+
+**Tech:** Python · Pandas · NumPy · Statistics · Quantitative Research · Backtesting
+
+---
+
+### 🎲 [School Escape Game](https://github.com/MYOILY/School-Escape-Game)
+
+A game development project focused on gameplay systems, object-oriented programming, and interactive game design.
+
+**Tech:** C# · Unity · Blender
+
+---
+
 ## 🛠️ Skills
 
 ### ⌨️ Programming & Development
@@ -45,45 +84,6 @@
 * Quantitative Analysis
 * Financial Technology
 * Algorithmic Problem Solving
-
----
-
-## 🚀 Featured Projects
-
-
-### 🏆 [AI Restaurant Capacity Optimisation](https://github.com/MYOILY/Forward-Hackathon-AI-Restaurant-Capacity-Optimisation)
-
-**🥇 1st Place & Best in Track: Improve an Existing Business Capability — Forward: AI in Business Hackathon**
-
-An AI-driven solution for optimising restaurant capacity and improving operational decision-making through data-driven analysis.
-
-**Tech:** Python · Data Science · Machine Learning · Data Analysis
-
----
-
-### 🏆 [Beijing Multi-Site Air Quality Analysis](https://github.com/MYOILY/Inter-uni-Datathon-Beijing-Multi-Site-Air-Quality)
-
-**🥇 1st Place & Best Technical Execution — Inter-University Datathon**
-
-A data science project analysing air quality across multiple sites in Beijing, using data processing, statistical analysis, and visualisation to identify patterns and insights.
-
-**Tech:** Python · Jupyter · Data Analysis · Statistics · Data Visualisation
-
----
-
-### 📈 [Quantitative Trading Research & Strategy Backtesting](https://github.com/MYOILY/Quantitative-Trading-Research-with-Strategy-Backtesting)
-
-A quantitative research project exploring trading strategies through historical market data, statistical analysis, and backtesting.
-
-**Tech:** Python · Pandas · NumPy · Statistics · Quantitative Research · Backtesting
-
----
-
-### 🎲 [School Escape Game](https://github.com/MYOILY/School-Escape-Game)
-
-A game development project focused on gameplay systems, object-oriented programming, and interactive game design.
-
-**Tech:** C# · Unity · Blender
 
 ---
 
