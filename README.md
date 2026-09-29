@@ -53,7 +53,7 @@
 
 ### 🏆 [AI Restaurant Capacity Optimisation](https://github.com/MYOILY/Forward-Hackathon-AI-Restaurant-Capacity-Optimisation)
 
-**🥇 1st Place — Forward: AI in Business Hackathon**
+**🥇 1st Place & Best in Track: Improve an Existing Business Capability — Forward: AI in Business Hackathon**
 
 An AI-driven solution for optimising restaurant capacity and improving operational decision-making through data-driven analysis.
 
@@ -63,7 +63,7 @@ An AI-driven solution for optimising restaurant capacity and improving operation
 
 ### 🏆 [Beijing Multi-Site Air Quality Analysis](https://github.com/MYOILY/Inter-uni-Datathon-Beijing-Multi-Site-Air-Quality)
 
-**🥇 1st Place — Inter-University Datathon**
+**🥇 1st Place & Best Technical Execution — Inter-University Datathon**
 
 A data science project analysing air quality across multiple sites in Beijing, using data processing, statistical analysis, and visualisation to identify patterns and insights.
 
